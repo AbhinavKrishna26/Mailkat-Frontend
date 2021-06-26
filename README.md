@@ -36,6 +36,12 @@ The scheduling can be done in different ways like-
 * Schedule Selector
 * Mail Body
 * Send Mail Button
+## Architecture Diagram
+<p align="center">
+   <br>
+  <a><img src="https://github.com/AbhinavKrishna26/Mailkat-Frontend/blob/main/public/Screenshot%202021-06-27%20at%2012.23.57%20AM.png" width="800"></a>
+  <br> 
+</p>
 
 ## Installation and Setup
 Clone the repository 
